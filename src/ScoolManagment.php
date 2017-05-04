@@ -1,8 +1,8 @@
 <?php
 
-namespace scool\managment;
+namespace scool\Managment;
 
-class SkeletonClass
+class ScoolManagment
 {
     /**
      * Create a new Skeleton Instance
